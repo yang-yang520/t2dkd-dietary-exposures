@@ -1,0 +1,9 @@
+﻿model,outcome,R2,RMSE
+year only,ASIR,0.0007,16.62
+year only,DALY_rate,-0.0103,122.6
+year + SDI,ASIR,-0.2354,18.48
+year + SDI,DALY_rate,-0.1283,129.56
+year + SDI + diet,ASIR,0.2382,14.51
+year + SDI + diet,DALY_rate,0.3478,98.5
+diet only,ASIR,0.2,14.87
+diet only,DALY_rate,0.3005,102.01
